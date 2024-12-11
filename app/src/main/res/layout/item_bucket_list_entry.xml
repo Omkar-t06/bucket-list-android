@@ -25,7 +25,7 @@
         android:layout_marginTop="8dp"
         android:layout_toStartOf="@id/card_view_image_container"
         android:fontFamily="sans-serif-light"
-        android:textColor="#777777"
+        android:textColor="#757575"
         android:textSize="14sp"
         tools:text="Hm.. making it long description to check how will it be with a good styling" />
 
