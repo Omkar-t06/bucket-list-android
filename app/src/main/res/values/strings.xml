@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bucket List</string>
+    <string name="things_to_do_section_image">Things to do section image</string>
+    <string name="things_to_do_title">Things To do</string>
+    <string name="places_to_go_text">Places To Go</string>
+    <string name="places_to_go_section_image">Places To Go Section Image</string>
 </resources>
